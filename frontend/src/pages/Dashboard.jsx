@@ -9,7 +9,7 @@ export default function Dashboard(){
     <Navbar/>
     <div className="container">
       <div className="card" style={{textAlign:"center"}}>
-        <h1>Welcome to KK FUNDA</h1>
+        <h1>Welcome to Pythonlife DevSecops with AI</h1>
         <p style={{margin:"15px 0"}}>Your DevOps Learning Platform</p>
 
         <button onClick={()=>navigate("/courses")}>

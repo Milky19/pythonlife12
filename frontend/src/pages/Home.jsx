@@ -8,11 +8,11 @@ export default function Home() {
       <div style={styles.card}>
 
         <h1 style={styles.title}>
-          KK FUNDA <span style={{color:"#22c55e"}}>DevOps</span> Training
+          Pythonlife <span style={{color:"#22c55e"}}>DevOps</span> Training
         </h1>
 
         <p style={styles.subtitle}>
-          Learn DevOps from industry experts with real-time projects
+          Learn Here and lead Any Where
         </p>
 
         {/* Divider */}
@@ -22,8 +22,8 @@ export default function Home() {
         <h3 style={styles.sectionTitle}>Trainer Contact</h3>
 
         <div style={styles.contactBox}>
-          <p style={styles.phone}>📞 +91 8639380177</p>
-          <p style={styles.phone}>📞 +91 9676831734</p>
+          <p style={styles.phone}>📞 +91 8688776655</p>
+          <p style={styles.phone}>📞 +91 9677889900</p>
         </div>
 
         {/* Social */}
@@ -31,7 +31,7 @@ export default function Home() {
 
         <div style={styles.socialRow}>
           <a
-            href="https://www.youtube.com/@kkfunda"
+            href="https://www.youtube.com/@PythonLifetelugu"
             target="_blank"
             rel="noreferrer"
             style={styles.socialBtn}
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://www.instagram.com/kk_funda_devops/"
+            href="https://www.instagram.com/pythonlifetelugu/"
             target="_blank"
             rel="noreferrer"
             style={styles.socialBtn}
