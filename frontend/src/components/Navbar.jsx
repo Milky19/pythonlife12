@@ -5,7 +5,7 @@ export default function Navbar(){
 
   return (
     <div className="navbar">
-      <h2>KK FUNDA</h2>
+      <h2>PYTHONLIFE-KRISHNA-DEVOPS</h2>
       <div>
         <button onClick={()=>navigate("/dashboard")}>Dashboard</button>
       </div>
