@@ -22,8 +22,8 @@ export default function Home() {
         <h3 style={styles.sectionTitle}>Trainer Contact</h3>
 
         <div style={styles.contactBox}>
-          <p style={styles.phone}>📞 +91 8688776655</p>
-          <p style={styles.phone}>📞 +91 9677889900</p>
+          <p style={styles.phone}>📞 +91 9154083255</p>
+          <p style={styles.phone}>📞 +91 8639957908</p>
         </div>
 
         {/* Social */}
